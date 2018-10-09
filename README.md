@@ -33,3 +33,16 @@
 2. Find kth maximum value in a binary search tree
 3. Find nodes at “k” distance from the root
 4. Find ancestors of a given node in a binary tree
+
+## Tries
+1. Count total number of words in Trie
+2. Print all words stored in Trie
+3. Sort elements of an array using Trie
+4. Form words from a dictionary using Trie
+5. Build a T9 dictionary
+
+## Hashing
+1. Find symmetric pairs in an array
+2. Trace complete path of a journey
+3. Find if an array is a subset of another array
+4. Check if given arrays are disjoint
